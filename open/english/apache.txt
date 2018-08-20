@@ -28,9 +28,10 @@ Ulrich Bär
 
 * Weapons
   - Gun
-  - Rockets
+  - Rockets/missiles (Does the price of the rocket influences the usage?) Hellfire against "cheap" people?
   - Mavericks
   - sidewinders? other Air-to-Air?
+  
 
 
 * Avionics
